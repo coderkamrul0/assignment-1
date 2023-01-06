@@ -42,3 +42,44 @@
 }
 
 /* Banner Section End */
+
+
+/* Hero Section Start */
+
+.hero-section-content{
+    width: 1600px;
+    margin: auto;
+    display: flex;
+    margin-bottom: 150px;
+}
+.hero-section-content{
+    margin-top: 130px;
+}
+.hero-section .hero-section-img{
+    margin-left: 100px;
+}
+.hero-section-content .hero-section-text{
+    margin-top: 240px;
+    margin-left: 200px;
+}
+.hero-section-content .hero-section-title{
+    font-size: 50px;
+    font-weight: 700;
+}
+.hero-section-content .hero-section-sub-title{
+    margin-top: 20px;
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+
+.hero-section-content ul li{
+    list-style: none;
+    font-size: 20px;
+    padding-bottom: 15px;
+}
+.hero-section-content ul li i{
+    color: aquamarine;
+    font-weight: bold;
+    font-size: 20px;
+}
+/* Hero Section End */
