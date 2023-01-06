@@ -21,12 +21,13 @@
 }
 .banner-section .banner-title{
     font-weight: 700;
-    font-size: 65px;
+    font-size: 70px;
     line-height: 76px;
     color: #151414;
 }
 .banner-details .banner-sub-title{
     line-height: 26px;
+    font-size: 17px;
     color: #444343;
     margin-top: 24px;
     margin-bottom: 32px;
