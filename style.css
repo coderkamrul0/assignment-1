@@ -40,6 +40,12 @@
     font-weight: 600;
     font-size: 26px;
 }
+.banner-details .banner-btn:hover{
+    color: #F15B22;
+    background-color: white;
+    padding: 23px;
+    border: 2px solid #F15B22;
+}
 
 /* Banner Section End */
 
@@ -153,5 +159,75 @@
         border-radius: 5px;
         margin-top: 45px;
     }
+    .contact-section .contact-section-details button:hover{
+        color:white;
+        background-color: #F15B22;
+        padding: 18px 28px;
+        border: 2px solid white;
+    }
 
 /* Contact Section End */
+
+
+
+/* Subscribe Section Start  */
+
+    .subscribe-section{
+        background: #151414;
+        color: white;
+    }
+    .subscribe-section .subscribe-section-details{
+        width: 1350px;
+        margin: auto;
+        display: flex;
+        padding: 130px 0;
+    }
+    .subscribe-section .subscribe-section-details h2{
+        font-size: 50px;
+        font-weight: 700;
+    }
+    .subscribe-section .subscribe-section-details p{
+        font-size: 18px;
+        margin: 25px 0;
+        line-height: 26px;
+    }
+    .subscribe-section .subscribe-section-details .icons{
+        display: flex;
+    }
+    .subscribe-section .subscribe-section-details .icons .facebook,.twitter,.youtube{
+        margin-right: 15px;
+    }
+    .subscribe-section .subscribe-section-details .subscribe h3{
+        font-size: 50px;
+        font-weight: 700;
+    }
+    .subscribe-section .subscribe-section-details .subscribe{
+        margin-left: 500px;
+    }
+    .subscribe-section .subscribe-section-details .subscribe .email{
+        color: #333;
+        font-size: 1.2rem;
+	    margin: 0 auto;
+        padding: 20px 30px;
+        border-radius: 10px;
+        background-color: transparent;
+        border: 2px solid white;
+        margin: 30px 0;
+
+    }
+    .subscribe-section .subscribe-section-details .btn{
+        color: #F15B22;
+        font-size: 30px;
+        font-weight: 600;
+        background-color: white;
+        border: none;
+        padding: 20px 40px;
+        border-radius: 5px;
+    }
+    .subscribe-section .subscribe-section-details .btn:hover{
+        color: white;
+        background-color: #F15B22;
+    }
+    
+
+/* Subscribe Section End */
