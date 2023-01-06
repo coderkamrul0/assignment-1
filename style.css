@@ -170,6 +170,41 @@
 
 
 
+
+/* Team Section Start  */
+
+    .team-section-details{
+        width: 1350px;
+        margin: auto;
+        margin-bottom: 100px;
+    }
+    .team-section-details h2{
+        font-size: 50px;
+        text-align: center;
+        font-weight: 700;
+        margin-bottom: 80px;
+    }
+    .team-section-details .team-members{
+        display: flex;
+        justify-content: space-between;
+    }
+    .team-section-details .team-member{
+        padding: 10px 10px;
+        border-radius: 10px;
+        box-shadow: 3px 4px 30px 0px rgba(1, 4, 21, 0.3);
+    }
+    .team-section-details .team-member h5{
+        margin: 10px 0;
+        font-size: 20px;
+    }
+    .team-section-details .team-member p{
+        margin-bottom: 15px;
+    }
+
+/* Team Section End */
+
+
+
 /* Subscribe Section Start  */
 
     .subscribe-section{
