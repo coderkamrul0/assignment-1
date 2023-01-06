@@ -234,7 +234,7 @@
         margin-right: 15px;
     }
     .subscribe-section .subscribe-section-details .subscribe h3{
-        font-size: 50px;
+        font-size: 30px;
         font-weight: 700;
     }
     .subscribe-section .subscribe-section-details .subscribe{
@@ -244,7 +244,7 @@
         color: #333;
         font-size: 1.2rem;
 	    margin: 0 auto;
-        padding: 20px 30px;
+        padding: 20px 100px 20px 10px;
         border-radius: 10px;
         background-color: transparent;
         border: 2px solid white;
@@ -253,7 +253,7 @@
     }
     .subscribe-section .subscribe-section-details .btn{
         color: #F15B22;
-        font-size: 30px;
+        font-size: 20px;
         font-weight: 600;
         background-color: white;
         border: none;
